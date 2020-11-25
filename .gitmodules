@@ -6,3 +6,7 @@
 	path = nathMic
 	url = https://github.com/Michael-Nath/mnath_signal.git
 	branch = master
+[submodule "yeCul"]
+	path = yeCul
+	url = https://github.com/CullenLYe/work13_signal.git
+	branch = main
