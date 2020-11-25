@@ -10,3 +10,7 @@
 	path = yeCul
 	url = https://github.com/CullenLYe/work13_signal.git
 	branch = main
+[submodule "hamzahMoh"]
+	path = hamzahMoh
+	url = https://github.com/ForestDweller014/13_signal
+	branch = main
