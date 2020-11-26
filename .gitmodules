@@ -14,3 +14,7 @@
 	path = hamzahMoh
 	url = https://github.com/ForestDweller014/13_signal
 	branch = main
+[submodule "ahmedTah"]
+	path = ahmedTah
+	url = https://github.com/TahsinAhmed13/13_signal.git
+	branch = main
