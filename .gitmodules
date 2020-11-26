@@ -18,3 +18,7 @@
 	path = ahmedTah
 	url = https://github.com/TahsinAhmed13/13_signal.git
 	branch = main
+[submodule "yeGen"]
+	path = yeGen
+	url = https://github.com/Gene1212/13_signal.git
+	branch = master
