@@ -30,3 +30,7 @@
 	path = jiangVin
 	url = https://github.com/vjiang10/13_signal_vj.git
 	branch = master
+[submodule "liSun"]
+	path = liSun
+	url = https://github.com/sunnyli13/Work13.git
+	branch = main
