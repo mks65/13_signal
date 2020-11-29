@@ -50,3 +50,7 @@
 	path = leeLuc
 	url = https://github.com/Lucas-Lee11/13_signal
 	branch = main
+[submodule "huLuc"]
+	path = huLuc
+	url = https://github.com/lhu10/systems_13_signal.git
+	branch = main
