@@ -46,3 +46,7 @@
 	path = ku-benjetJer
 	url = https://github.com/jku20/mk65_13_signal.git
 	branch = main
+[submodule "leeLuc"]
+	path = leeLuc
+	url = https://github.com/Lucas-Lee11/13_signal
+	branch = main
