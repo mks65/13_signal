@@ -42,3 +42,7 @@
 	path = zhangJin
 	url = https://github.com/Jinzxc/13_signal_J.git
 	branch = main
+[submodule "ku-benjetJer"]
+	path = ku-benjetJer
+	url = https://github.com/jku20/mk65_13_signal.git
+	branch = main
