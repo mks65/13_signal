@@ -38,3 +38,7 @@
 	path = zhouKel
 	url = https://github.com/KellyZhou223/signal.git
 	branch = master
+[submodule "zhangJin"]
+	path = zhangJin
+	url = https://github.com/Jinzxc/13_signal_J.git
+	branch = main
