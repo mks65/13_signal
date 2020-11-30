@@ -54,3 +54,7 @@
 	path = huLuc
 	url = https://github.com/lhu10/systems_13_signal.git
 	branch = main
+[submodule "leeSte"]
+	path = leeSte
+	url = https://github.com/kevidgel/13_signal
+	branch = main
