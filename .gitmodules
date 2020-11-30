@@ -77,3 +77,7 @@
 	path = zhengYul
 	url = https://github.com/yzheng10/13_Signal.git
 	branch = main
+[submodule "prasadAmi"]
+	path = prasadAmi
+	url = https://github.com/AmitPr/mks65c-13_signal.git
+	branch = master
