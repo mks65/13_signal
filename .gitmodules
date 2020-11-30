@@ -62,3 +62,7 @@
 	path = maoMad
 	url = https://github.com/madelynxmao/13_signal.git
 	branch = main
+[submodule "zhangDev"]
+	path = zhangDev
+	url = https://github.com/dzhang10/hw_13_signal.git
+	branch = master
