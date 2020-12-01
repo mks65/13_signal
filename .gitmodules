@@ -97,3 +97,7 @@
 	path = luRan
 	url = https://github.com/RandyLu0/Work13
 	branch = main
+[submodule "zhangAle"]
+	path = zhangAle
+	url = https://github.com/Kappachino-Latte/13_signal_zhangAle
+	branch = master
