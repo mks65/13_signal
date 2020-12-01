@@ -133,3 +133,7 @@
 	path = hernandezCar
 	url = https://github.com/KarlWithK/13_signal_mks.git
 	branch = master
+[submodule "chanSer"]
+	path = chanSer
+	url = https://github.com/schan11/signal.git
+	branch = master
