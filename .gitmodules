@@ -101,3 +101,7 @@
 	path = zhangAle
 	url = https://github.com/Kappachino-Latte/13_signal_zhangAle
 	branch = master
+[submodule "ganHao"]
+	path = ganHao
+	url = https://github.com/haotianGan/13_signals
+	branch = master
