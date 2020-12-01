@@ -121,3 +121,7 @@
 	path = hathawayMay
 	url = https://github.com/mayhathaway/systems-13
 	branch = master
+[submodule "waldAle"]
+	path = waldAle
+	url = https://github.com/SashaWald/work_13.git
+	branch = main
