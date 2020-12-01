@@ -109,3 +109,7 @@
 	path = misquittaKri
 	url = https://github.com/Kristoff1318/Work_13.git
 	branch = main
+[submodule "huMic"]
+	path = huMic
+	url = https://github.com/GuessHuIAm/hw13_signal
+	branch = master
