@@ -113,3 +113,7 @@
 	path = huMic
 	url = https://github.com/GuessHuIAm/hw13_signal
 	branch = master
+[submodule "13_signal"]
+	path = 13_signal
+	url = https://github.com/AbhijeetSaha2142/13_signal.git
+	branch = main
