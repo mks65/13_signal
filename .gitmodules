@@ -89,3 +89,7 @@
 	path = siniscalcoFra
 	url = https://github.com/NopeSiniscalco/13_signal_mks.git
 	branch = main
+[submodule "vostrikovVla"]
+	path = vostrikovVla
+	url = https://github.com/villinoid/13_systems.git
+	branch = main
