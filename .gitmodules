@@ -125,3 +125,7 @@
 	path = waldAle
 	url = https://github.com/SashaWald/work_13.git
 	branch = main
+[submodule "linLei"]
+	path = linLei
+	url = https://github.com/llin11/13_signal.git
+	branch = main
