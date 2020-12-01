@@ -93,3 +93,7 @@
 	path = vostrikovVla
 	url = https://github.com/villinoid/13_systems.git
 	branch = main
+[submodule "luRan"]
+	path = luRan
+	url = https://github.com/RandyLu0/Work13
+	branch = main
