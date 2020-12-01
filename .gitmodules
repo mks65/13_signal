@@ -117,3 +117,7 @@
 	path = sahaAbh
 	url = https://github.com/AbhijeetSaha2142/13_signal.git
 	branch = main
+[submodule "hathawayMay"]
+	path = hathawayMay
+	url = https://github.com/mayhathaway/systems-13
+	branch = master
