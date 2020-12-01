@@ -105,3 +105,7 @@
 	path = ganHao
 	url = https://github.com/haotianGan/13_signals
 	branch = master
+[submodule "misquittaKri"]
+	path = misquittaKri
+	url = https://github.com/Kristoff1318/Work_13.git
+	branch = main
