@@ -70,9 +70,6 @@
 	path = zhaoGav
 	url = https://github.com/gzhao10/hw13.git
 	branch = main
-[submodule "chenJac"]
-	path = chenJac
-	url = https://github.com/jchen2003/13_signal.git
 [submodule "zhengYul"]
 	path = zhengYul
 	url = https://github.com/yzheng10/13_Signal.git
